@@ -1,2 +1,2 @@
 # SingletonPatternDesign
- Singleton pattern desing ile kullanıcı giriş arayüzü 
+ Singleton pattern design ile kullanıcı giriş arayüzü 
