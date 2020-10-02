@@ -1,0 +1,75 @@
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\yolcu\source\repos\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\yolcu\source\repos\SingletonPattern\obj\Debug\SingletonPattern.Form1.resources
+C:\Users\yolcu\source\repos\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\yolcu\source\repos\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.cache
+C:\Users\yolcu\source\repos\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\yolcu\source\repos\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\MySql.Data.dll
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\Google.Protobuf.dll
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\Renci.SshNet.dll
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\MySql.Data.xml
+C:\Users\yolcu\source\repos\SingletonPattern\obj\Debug\SingletonPattern.csproj.CopyComplete
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\yolcu\source\repos\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Desktop\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Desktop\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Desktop\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Desktop\SingletonPattern\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Desktop\SingletonPattern\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\SingletonPattern\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Desktop\SingletonPattern\bin\Debug\Renci.SshNet.dll
+C:\Users\Desktop\SingletonPattern\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.Form1.resources
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.cache
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.csproj.CopyComplete
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\Users\Desktop\SingletonPattern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Desktop\SingletonPattern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Desktop\SingletonPattern\obj\Debug\SingletonPattern.Form2.resources
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\Renci.SshNet.dll
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.Form1.resources
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.Form2.resources
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.cache
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.csproj.CopyComplete
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Desktop\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\Renci.SshNet.dll
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.Form1.resources
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.Form2.resources
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.cache
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.csproj.CopyComplete
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Desktop\Doğukan Yolcuoğlu - 172805006\SingletonPatternProje\SingletonPattern\obj\Debug\SingletonPattern.pdb
